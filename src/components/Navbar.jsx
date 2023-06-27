@@ -137,7 +137,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#e05742]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='Portfolio/public/Gnanadeep_Settykara_SDE.pdf'
+              href='public/Gnanadeep_Settykara_SDE.pdf'
               target="_blank"
               rel='noopener noreferrer'
             >
