@@ -2,6 +2,7 @@ import Expense from '../assets/projects/expense.png'
 import Pokemon from '../assets/projects/pokemon.jpg'
 import Solar from '../assets/projects/solar.jpeg'
 import Social from '../assets/projects/social.jpg'
+import Trip from '../assets/projects/Trip.jpg'
 
 export const data=[
     {
@@ -13,14 +14,14 @@ export const data=[
     },
     {
         id:2,
-        name:"Social Media App using MERN Stack",
+        name:"Editrox",
         image:Social,
         github:"",
         live:"",
     },
     {
         id:3,
-        name:"Expense Tracker Application",
+        name:"PennyWise (Expense Tracker Application)",
         image:Expense,
         github:"",
         live:"",
@@ -29,6 +30,14 @@ export const data=[
         id:4,
         name:"Pokemon Card Generator",
         image:Pokemon,
+        github:"",
+        live:"",
+    },
+    ,
+    {
+        id:5,
+        name:"QTrip",
+        image:Trip,
         github:"",
         live:"",
     },
