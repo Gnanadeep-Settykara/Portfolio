@@ -33,7 +33,6 @@ export const data=[
         github:"",
         live:"",
     },
-    ,
     {
         id:5,
         name:"QTrip",
