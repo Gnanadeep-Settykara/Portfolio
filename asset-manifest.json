@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b0f72f67.css",
+    "main.js": "/Portfolio/static/js/main.21c112a2.js",
+    "static/media/Trip.jpg": "/Portfolio/static/media/Trip.674a25a36a036ae06f6d.jpg",
+    "static/media/solar.jpeg": "/Portfolio/static/media/solar.55f3e3739a16ed4bf76c.jpeg",
+    "static/media/social.jpg": "/Portfolio/static/media/social.f6feb595645aaef22085.jpg",
+    "static/media/expense.png": "/Portfolio/static/media/expense.a840057c8059d175e2c8.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/Portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/node.png": "/Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/pokemon.jpg": "/Portfolio/static/media/pokemon.8448367a33d4ceca5ce6.jpg",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.fc864005154c28d26d09.png",
+    "static/media/windows.png": "/Portfolio/static/media/windows.32d28a5096e9b3f6784a.png",
+    "static/media/linux.png": "/Portfolio/static/media/linux.b7df250a76e0bf5b654e.png",
+    "static/media/jupyter.png": "/Portfolio/static/media/jupyter.654a4ca1d9113a882390.png",
+    "static/media/azure.png": "/Portfolio/static/media/azure.d44a1c1e9c7b2e9a32bb.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/java.png": "/Portfolio/static/media/java.145efca97abf1e9bad98.png",
+    "static/media/pycharm.png": "/Portfolio/static/media/pycharm.615a8625f592bb5d3693.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/git.png": "/Portfolio/static/media/git.5ab08d5ace1953d28e97.png",
+    "static/media/sql.png": "/Portfolio/static/media/sql.747adea3da7dbdea53c0.png",
+    "static/media/revicons.eot": "/Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/msoffice.png": "/Portfolio/static/media/msoffice.88d634c367b45bd773d2.png",
+    "static/media/python.png": "/Portfolio/static/media/python.9669d5bd0c4730d318dc.png",
+    "static/media/c.png": "/Portfolio/static/media/c.845ead303053af945246.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/cpp.png": "/Portfolio/static/media/cpp.0d0dcf3282b27ed4b101.png",
+    "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Portfolio/index.html",
+    "main.b0f72f67.css.map": "/Portfolio/static/css/main.b0f72f67.css.map",
+    "main.21c112a2.js.map": "/Portfolio/static/js/main.21c112a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f72f67.css",
+    "static/js/main.21c112a2.js"
+  ]
+}
