@@ -14,7 +14,7 @@ export const data=[
     },
     {
         id:2,
-        name:"Editrox",
+        name:"Editrox (Web based code Editor)",
         image:Social,
         github:"",
         live:"",
