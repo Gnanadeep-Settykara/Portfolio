@@ -14,7 +14,7 @@ export const data=[
     },
     {
         id:2,
-        name:"Editrox",
+        name:"CodeHub",
         image:Social,
         github:"",
         live:"",
@@ -30,8 +30,8 @@ export const data=[
         id:4,
         name:"Pokemon Card Generator",
         image:Pokemon,
-        github:"",
-        live:"",
+        github:"https://github.com/Gnanadeep-Settykara/PokemonCardGenerator",
+        live:"https://gnanadeep-settykara.github.io/PokemonCardGenerator/",
     },
     {
         id:5,
