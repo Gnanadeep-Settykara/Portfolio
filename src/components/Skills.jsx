@@ -25,23 +25,31 @@ import PyCharm from '../assets/pycharm.png';
 import MSOffice from '../assets/msoffice.png';
 import AWS from '../assets/aws.png';
 import Azure from '../assets/azure.png';
+import TypeScript from '../assets/typescript.png';
+import R from '../assets/R.png';
+import Tableau from '../assets/tableau.png';
+import GraphQL from '../assets/graphql.png';
 
 const Skills = () => {
   const skillData = [
+    { icon: Python, label: 'Python' },
+    { icon: MySQL, label: 'MySQL' },
     { icon: HTML, label: 'HTML' },
     { icon: CSS, label: 'CSS' },
     { icon: JavaScript, label: 'JavaScript' },
+    { icon: TypeScript, label: 'TypeScript'},
     { icon: ReactImg, label: 'React' },
     { icon: Node, label: 'Node.js' },
+    { icon: GraphQL, label: 'GraphQL'},
     { icon: GitHub, label: 'GitHub' },
     { icon: Tailwind, label: 'Tailwind CSS' },
     { icon: Mongo, label: 'MongoDB' },
-    { icon: Python, label: 'Python' },
     { icon: Java, label: 'Java' },
     { icon: C, label: 'C' },
     { icon: CPP, label: 'C++' },
     { icon: SQL, label: 'SQL' },
-    { icon: MySQL, label: 'MySQL' },
+    { icon: R, label: 'R' },
+    { icon: Tableau, label: 'Tableau'},
     { icon: Git, label: 'Git' },
     { icon: Windows, label: 'Windows' },
     { icon: Linux, label: 'Linux' },
