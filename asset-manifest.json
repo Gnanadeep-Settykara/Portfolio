@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.9afa89b2.css",
-    "main.js": "/Portfolio/static/js/main.6ee32c8d.js",
+    "main.js": "/Portfolio/static/js/main.44754648.js",
     "static/media/gameofgoals.png": "/Portfolio/static/media/gameofgoals.eb298750a7dfdbed1d4d.png",
     "static/media/Trip.jpg": "/Portfolio/static/media/Trip.674a25a36a036ae06f6d.jpg",
     "static/media/eventsnap.jpeg": "/Portfolio/static/media/eventsnap.c1f3af0cd33e1af0d1f3.jpeg",
@@ -40,10 +40,10 @@
     "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Portfolio/index.html",
     "main.9afa89b2.css.map": "/Portfolio/static/css/main.9afa89b2.css.map",
-    "main.6ee32c8d.js.map": "/Portfolio/static/js/main.6ee32c8d.js.map"
+    "main.44754648.js.map": "/Portfolio/static/js/main.44754648.js.map"
   },
   "entrypoints": [
     "static/css/main.9afa89b2.css",
-    "static/js/main.6ee32c8d.js"
+    "static/js/main.44754648.js"
   ]
 }
