@@ -6,7 +6,7 @@ import Typical from 'react-typical';
 const Home = () => {
   const handleResumeClick = () => {
     // Open the resume PDF in a new tab/window
-    window.open(process.env.PUBLIC_URL + '/Gnanadeep_Settykara_resume.pdf', '_blank');
+    window.open(process.env.PUBLIC_URL + '/Gnanadeep Settykara_Data_Analyst.pdf', '_blank');
   };
 
   return (
@@ -44,7 +44,7 @@ const Home = () => {
               2000,
               'Data Engineer.',
               2000,
-              'Data Enthusiast.',
+              'Data Analyst.',
               2000,
             ]}
           />

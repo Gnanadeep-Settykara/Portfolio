@@ -106,7 +106,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://www.linkedin.com/in/gnanadeep-settykara-564252210/'
+              href='https://www.linkedin.com/in/sgdeep/'
               target="_blank"
               rel='noopener noreferrer'
             >
@@ -137,7 +137,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#e05742]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href={`${process.env.PUBLIC_URL}/Gnanadeep_Settykara_resume.pdf`}
+              href={`${process.env.PUBLIC_URL}/Gnanadeep Settykara_Data_Analyst.pdf`}
               target="_blank"
               rel='noopener noreferrer'
             >
